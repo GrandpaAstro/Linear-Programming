@@ -5,7 +5,7 @@ html {
 
 
 h1 {
-  font-size: 70px;
+  font-size: 120px;
   text-align: center;
 }
 
@@ -24,8 +24,14 @@ body {
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #0070fa;
+  color: #21355a;
   text-shadow: 3px 3px 1px #000000;
+}
+
+p, li {
+  margin: 0;
+  padding: 5px 0;
+  color: #21355a;
 }
 
 img {
@@ -33,3 +39,16 @@ img {
   margin: 0 auto;
 }
 
+
+h2 {
+  font-size: 60px;
+  line-height: 1;
+  text-align: justify;
+}
+
+
+h2 {
+  margin: 0;
+  padding: 20px 0;
+  color: #21355a;
+}
